@@ -100,3 +100,12 @@ a:hover {
     text-decoration: none;
     color: #494C4A;
 }
+
+form {
+	margin: 0px auto;
+}
+
+fieldset {
+	margin: 30px;
+
+}
