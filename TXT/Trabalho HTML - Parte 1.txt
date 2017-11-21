@@ -1,0 +1,43 @@
+Trabalho HTML - Parte 1 (HTML/CSS)
+
+ I  Introdução
+
+Este documento especifica o projeto a ser desenvolvido pelos alunos da disciplina de FPIN, cuja avaliação será parte da primeira nota. 
+
+II  Equipes
+
+As equipes para desenvolvimento deste projeto poderão ser compostas de, no máximo, 4 alunos.
+
+A equipe deverá informar ao professor ( até 10/outubro) os componentes da equipe (nome e email)
+
+III  Critérios de avaliação
+
+A avaliação considerará a adequação do projeto entregue às diretrizes impostas para sua implementação. Essa avaliação será pontuada entre 0 e 10.
+
+IV - Projeto
+
+As equipes são deverão desenvolver o projeto a partir do tema sugerido pelo professor.
+
+V - Diretrizes
+
+Desenvolver o sistema web utilizando HTML e CSS, e apresentar páginas estáticas com dados de exemplo
+Criar páginas para todos os CdUs 1B, 2B, 3, 4B, 5, 6 e 7
+Não utilizar ferramentas WYSIWYG para edição do código HTML
+Apresentar facilidade de uso
+Criar arquivo LEIAME.txt explicando todo o processo de configuração para que o programa possa ser instalado e executado (em servidor web), incluindo informações sobre usuários, senhas, biblioteca e servidores utilizados, bem como suas configurações, caso esses dados sejam necessários.
+Criar página SOBRE descrevendo:
+integrantes da equipe e seus emails.
+mesmo conteúdo do LEIAME
+mapa do site
+Tamanho máximo: 2MB
+Os arquivos do projeto deverão ser entregues via GitHub. A URL para download deverá ser informada via moodle
+
+ VII  - Entrega (parte 1)
+
+componentes da equipe: 10/outubro
+versão final: 25/outubro
+Apresentação: 26/outubro (cada equipe terá 15min para apresentar o trabalho ao professor) 
+VIII - Outras questões
+
+Identificar todos os componentes da equipe no leiame.txt, bem como em uma página dentro do projeto
+As páginas criadas não devem ser páginas simplesmente informativas, mas devem permitir que o usuário entenda como o sistema funcionará e interaja com esse sistema.

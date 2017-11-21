@@ -2,24 +2,17 @@
 
 <html lang="pt-br">
 	<head>
-		<meta charset="UTF-8">
-		<link rel="stylesheet" href="/home/marcelo/git/FPIN/CSS/estilo.css">
-		<title>Leiame -WikiLítica PnP</title>
+		<?php 
+		$title ="Leiame -WikiLítica PnP";
+		include 'head.php'; 
+		?>
 	</head>
 
 <body>
-	<div class="header">WikiLítica</div>
+	<?php 
+		include 'nav.php'; 
+	?>
 
-	<div class="nav">
-			<ul>
-				<li><a href="index.html">Home</a></li>
-				<li><a href="cidades.html">Cidades e Estados</a></li>
-				<li><a href="partidos.html">Partidos</a></li>
-				<li><a href="informacoes.html">Informações</a></li>
-				<li><a href="candidatos.html">Candidatos</a></li>
-				<li><a href="usuarios.html">Usuários</a></li>
-			</ul>
-		</div>
 	<div class="pagina">		
 		<h1>VERSÃO 01</h1>
 
@@ -49,7 +42,7 @@
 				<p>O sistema permitirá que o cidadão/eleitor realize seu próprio cadastro informando os seguintes dados: email, senha, CPF, nome, telefone, data nascimento, sexo, endereço, cidade e estado.</p>		
 	</div>
 	<div class="footer">
-		<div class="copyright">Copyright &copy; PnP.com.brp</div>
+		<?php include 'footer.php'; ?>
 	</div>	
 </body>
 </html>

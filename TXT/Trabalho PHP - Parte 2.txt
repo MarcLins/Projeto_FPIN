@@ -1,0 +1,22 @@
+Trabalho PHP - Parte 2
+
+I  Introdução
+
+Este documento especifica o projeto a ser desenvolvido pelos alunos da disciplina de FPIN.
+
+II  Equipes
+
+As equipes para desenvolvimento deste projeto deverão ser compostas preferencialmente pelos mesmos alunos dos trabalhos anteriores.
+
+III - Diretrizes
+
+Desenvolver sistema referente ao Tema proposta, VERSÃO 1, com o mínimo de 75% das funcionalides
+Utilizar as tecnologias PHP, HTML e CSS.
+Utilizar SGBD (mysql ou postgresql) para gerenciamento dos dados.
+Criar arquivo LEIAME contendo
+todo o processo de configuração para que o programa possa ser instalado e executado
+informações sobre usuários, senhas, biblioteca e servidores utilizados, banco de dados, bem como suas configurações.
+Nome completo e email de todos os integrantes da equipe.
+Realizar entrega através de link no Github
+Criar página sobre descrevendo o projeto e a equipe executora do projeto
+Apresentar o projeto em sala de aula
