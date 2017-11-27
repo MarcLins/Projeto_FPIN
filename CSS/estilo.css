@@ -1,16 +1,18 @@
 body  {
 		margin: 0;
-		padding: 0
-		background-color: blue;		
+		padding: 0;
+		background-color: #D8D8D8;		
   }
 
 .pagina{
 	width: 600px;
 	height: auto;
-	padding: 2px
-    background-color: red;
-	margin-top: 0px auto;
+	padding: 0px;
+    background-color: white;
 	margin: auto;
+    /*border: 1px solid;*/
+    border-left-color: #848484;
+    border-right-color: #848484; 
 }
 
 p  {
@@ -34,7 +36,7 @@ h1{
 }
 
 .footer {
-    padding: 0px;
+    padding: 10px;
     height: 105px;
     width: 100%;
     color: white;
@@ -43,12 +45,6 @@ h1{
     font-size: 15px;
     text-align: center;
     margin: 0px auto;
-}
-
-.copyright{
-	width : 200px;
-	margin: 0px auto;
-	
 }
 
 .header{
@@ -66,7 +62,8 @@ h1{
 .nav {
     height: 30px;
     width: 800px;
-    margin: 0px auto 0px;
+    margin: 9px auto 0px;
+    position: center;
       
 }
 
@@ -93,12 +90,15 @@ ul {
 
 a:hover {
     background-color: #BDBDBD;
-    color: black;  
+    color: green;  
+    border-left: 6px solid red;
 }
    
  a {
     text-decoration: none;
-    color: #494C4A;
+    padding: 9px 8px;
+    /*color: #494C4A;*/
+    background-color: #494;
 }
 
 form {
